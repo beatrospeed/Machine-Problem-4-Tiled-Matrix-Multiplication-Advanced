@@ -1,0 +1,228 @@
+Tiled Matrix multiplication with 2 blocks
+
+100 x 100 matrix multiplication.
+The CPU took 7457 to complete the computation.
+
+The GPU took 5091.456055 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+200 x 200 matrix multiplication.
+The CPU took 69460 to complete the computation.
+
+The GPU took 39886.878906 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+500 x 500 matrix multiplication.
+The CPU took 1131559 to complete the computation.
+
+The GPU took 487346.281250 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1000 x 1000 matrix multiplication.
+The CPU took 9854678 to complete the computation.
+
+The GPU took 3905473.750000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1500 x 1500 matrix multiplication.
+The CPU took 37565589 to complete the computation.
+
+The GPU took 13405297.000000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+5000 x 5000 matrix multiplication.
+The CPU took 1919006081 to complete the computation.
+
+The GPU took 917968640.000000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+Tiled Matrix multiplication with 4 blocks
+
+100 x 100 matrix multiplication.
+The CPU took 4792 to complete the computation.
+
+The GPU took 765.951965 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+200 x 200 matrix multiplication.
+The CPU took 31146 to complete the computation.
+
+The GPU took 5666.271973 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+500 x 500 matrix multiplication.
+The CPU took 597545 to complete the computation.
+
+The GPU took 178359.625000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1000 x 1000 matrix multiplication.
+The CPU took 5115759 to complete the computation.
+
+The GPU took 1495894.000000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1500 x 1500 matrix multiplication.
+The CPU took 20263942 to complete the computation.
+
+The GPU took 5152686.500000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+5000 x 5000 matrix multiplication.
+The CPU took 691170323 to complete the computation.
+
+The GPU took 89114832.000000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+Tiled Matrix multiplication with 10 blocks
+
+100 x 100 matrix multiplication.
+The CPU took 2970 to complete the computation.
+
+The GPU took 153.056000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+200 x 200 matrix multiplication.
+The CPU took 23981 to complete the computation.
+
+The GPU took 1173.343994 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+500 x 500 matrix multiplication.
+The CPU took 420041 to complete the computation.
+
+The GPU took 17037.566406 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1000 x 1000 matrix multiplication.
+The CPU took 4221998 to complete the computation.
+
+The GPU took 177761.343750 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1500 x 1500 matrix multiplication.
+The CPU took 16202236 to complete the computation.
+
+The GPU took 501057.468750 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+5000 x 5000 matrix multiplication.
+The CPU took 627357593 to complete the computation.
+
+The GPU took 16558959.000000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+Tiled Matrix multiplication with 20 blocks
+
+100 x 100 matrix multiplication.
+The CPU took 3164 to complete the computation.
+
+The GPU took 139.391998 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+200 x 200 matrix multiplication.
+The CPU took 28146 to complete the computation.
+
+The GPU took 1075.487915 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+500 x 500 matrix multiplication.
+The CPU took 397568 to complete the computation.
+
+The GPU took 13592.704102 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1000 x 1000 matrix multiplication.
+The CPU took 4017836 to complete the computation.
+
+The GPU took 143478.437500 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1500 x 1500 matrix multiplication.
+The CPU took 15813095 to complete the computation.
+
+The GPU took 421612.687500 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+5000 x 5000 matrix multiplication.
+The CPU took 618881174 to complete the computation.
+
+The GPU took 13237675.000000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+Tiled Matrix multiplication with 25 blocks
+
+100 x 100 matrix multiplication.
+The CPU took 3127 to complete the computation.
+
+The GPU took 135.327988 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+200 x 200 matrix multiplication.
+The CPU took 22869 to complete the computation.
+
+The GPU took 1041.952026 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+500 x 500 matrix multiplication.
+The CPU took 371980 to complete the computation.
+
+The GPU took 16253.503906 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1000 x 1000 matrix multiplication.
+The CPU took 3990154 to complete the computation.
+
+The GPU took 166523.078125 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+1500 x 1500 matrix multiplication.
+The CPU took 15880966 to complete the computation.
+
+The GPU took 508134.937500 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+5000 x 5000 matrix multiplication.
+The CPU took 626669669 to complete the computation.
+
+The GPU took 16346641.000000 microseconds to complete the computation with one thread per element.
+
+Test PASSED
+
+Bonus tiled matrix multiplication with 8 x 14 block widths
+
+CPU 41220.121094 GPU 41220.121094 Test PASSED
+
+
+E:\MP3_Masloub - Copy\x64\Debug\MP3_Masloub.exe (process 23432) exited with code -1.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
